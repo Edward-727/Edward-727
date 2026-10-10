@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Edward's Pikachu trainer profile banner</title>
+  <desc id="desc">A cyan pixel adventure landscape with an electric yellow lightning bolt.</desc>
+  <defs>
+    <pattern id="pixelGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#fff" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="300" fill="#62b9dc"/>
+  <rect width="1280" height="250" fill="url(#pixelGrid)"/>
+  <path d="M0 214h94v-25h72v25h105v-38h78v38h103v-22h67v22h98v-35h78v35h107v-23h73v23h111v-37h80v37h114v86H0Z" fill="#287d95"/>
+  <path d="M0 247h153v-23h83v23h123v-34h88v34h104v-19h79v19h107v-32h89v32h125v-25h82v25h147v53H0Z" fill="#174f68"/>
+  <rect x="72" y="54" width="178" height="28" fill="#ffd83d"/>
+  <text x="86" y="73" fill="#17364a" font-family="Arial,sans-serif" font-size="12" font-weight="700">EDWARD'S ADVENTURE LOG</text>
+  <text x="72" y="153" fill="#fffdf3" font-family="Arial,sans-serif" font-size="56" font-weight="700">Build. Learn. Evolve.</text>
+  <text x="74" y="187" fill="#17364a" font-family="Arial,sans-serif" font-size="18">One idea at a time.</text>
+  <path d="M1007 60h77l-49 87h54l-132 105 36-81h-48Z" fill="#ffd83d" stroke="#17364a" stroke-width="7" stroke-linejoin="miter"/>
+  <path d="M931 91 951 65 946 91 966 86 936 119Z" fill="#fff8dc" stroke="#17364a" stroke-width="4" stroke-linejoin="miter"/>
+  <path d="M1117 205 1136 181 1131 205 1150 200 1121 230Z" fill="#fff8dc" stroke="#17364a" stroke-width="4" stroke-linejoin="miter"/>
+  <rect x="0" y="282" width="1280" height="18" fill="#ffd83d"/>
+  <g fill="#17364a"><rect x="72" y="282" width="18" height="9"/><rect x="112" y="291" width="18" height="9"/><rect x="1190" y="282" width="18" height="9"/><rect x="1230" y="291" width="18" height="9"/></g>
+</svg>
