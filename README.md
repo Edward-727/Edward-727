@@ -1,4 +1,6 @@
 <div align="center">
+  <img src="./assets/pikachu-banner.svg" width="100%" alt="Edward's pixel adventure banner: Build. Learn. Evolve." />
+  <br />
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif" width="112" alt="Animated Pikachu pixel sprite" />
   <h1>Hello, I'm Edward</h1>
   <p><strong>Curious mind. Hands-on builder. Always leveling up.</strong></p>
@@ -15,7 +17,7 @@
 
 <h2 id="about">⚡ About</h2>
 
-I'm Edward (`Edward-727`). I like exploring ideas, learning by building, and sharing the useful parts along the way.
+I'm Edward (Edward-727). I like exploring ideas, learning by building, and sharing the useful parts along the way.
 
 <h2 id="quest-board">🗺️ Quest board</h2>
 
